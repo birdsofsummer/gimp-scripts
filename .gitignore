@@ -1,0 +1,6 @@
+node_modules/
+i/*
+tmp/*
+*.zip
+*.db
+src/db/dict/*.db
